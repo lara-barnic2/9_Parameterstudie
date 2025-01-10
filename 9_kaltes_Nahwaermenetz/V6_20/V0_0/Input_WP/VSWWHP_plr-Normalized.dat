@@ -1,0 +1,7 @@
+0.0 0.1 0.25 0.50 0.75 1.0  ! [0..1] part load ratio (normalized compressor speed)
+0.1	! normalized power consumption at PLR = 0.0
+0.1	! normalized power consumption at PLR = 0.1
+0.25	! normalized power consumption at PLR = 0.25
+0.50	! normalized power consumption at PLR = 0.50
+0.75	! normalized power consumption at PLR = 0.75
+1.00	! normalized power consumption at PLR = 1.00
